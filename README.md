@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm not working, just doing.
+# 💫 Hey, I'm the broken one.:
+Not working, just doing.
 
 
 # 💻 Tech Stack:
